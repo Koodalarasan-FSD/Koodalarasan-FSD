@@ -1,8 +1,8 @@
-# 👋 Hi, I’m @Koodalarasan
+# 👋 Hi, I’m @Koodalarasan - Software Engineer
 
 ## 🚀 About Me
 
-- 🎯 **Role**: Python Developer
+- 🎯 **Role**: Software Engineer
 - 💻 **Skills**:
 
 <p align="left">
@@ -29,8 +29,8 @@
 
 ## 🌱 Current Role
 
-- **Position**: Python Developer
-- **Company**: Aasva Technologies India Pvt Ltd
+- **Position**: Software Engineer
+- **Company**: Evvo Technology Solutions Private Limited
 
 ## 📫 How to Reach Me
 
